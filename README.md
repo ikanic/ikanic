@@ -10,14 +10,14 @@
 2023.01 ~ 2023.03.05 앨런 Swift문법 마스터 스쿨 17기 수료
 
 ## My Status
-|![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek0622&show_icons=true&theme=vision-friendly-dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taek0622&layout=compact&theme=apprentice&custom_title=My&nbsp;Language&nbsp;⌨️)](https://github.com/anuraghazra/github-readme-stats)|
+|![meenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikanic&show_icons=true&theme=vision-friendly-dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikanic&layout=compact&theme=apprentice&custom_title=My&nbsp;Language&nbsp;⌨️)](https://github.com/anuraghazra/github-readme-stats)|
 |:-:|:-:|
 
 <div align="center">
-     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taek0622&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak"></a>
-     <a href="https://stats.hyochan.dev/ko"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=taek0622" alt="taek0622 GitHub Stats" width="60%"></a>
-     <a href="https://stats.hyochan.dev/ko"><img src="https://stats.hyochan.dev/api/github-trophies?login=taek0622" alt="taek0622 GitHub Trophies" width="60%"></a>
-     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taek0622" alt="trophy"></a>
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ikanic&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak"></a>
+     <a href="https://stats.hyochan.dev/ko"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=ikanic" alt="ikanic GitHub Stats" width="60%"></a>
+     <a href="https://stats.hyochan.dev/ko"><img src="https://stats.hyochan.dev/api/github-trophies?login=ikanic" alt="ikanic GitHub Trophies" width="60%"></a>
+     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikanic" alt="trophy"></a>
      <a href="https://solved.ac/taek0622"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taek0622" alt="Solved.ac 프로필"></a>
 </div>
 
@@ -65,10 +65,10 @@
      </a>
 </div>
      
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaek0622&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fikanic&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
-**taek0622/taek0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ikanic/ikanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
